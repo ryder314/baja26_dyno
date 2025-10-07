@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Pololu_Breakout-16_15.2x20.3mm,1,Pololu_Breakout_A4988,
+J1,JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical,1,Conn_01x06,
+"J2, J4, J6",JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,3,Conn_01x04,
+"J3, J7",PinHeader_1x20_P2.54mm_Vertical,2,Conn_01x20_Pin,
+J5,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02,
+J8,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,Conn_01x02_Socket,
+U1,XFW_HX711,1,~,
+U2,Untitled,1,~,

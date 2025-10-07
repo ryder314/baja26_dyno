@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XFW_HX711")(type "KiCad")(uri "${KIPRJMOD}/XFW_HX711.kicad_sym")(options "")(descr ""))
+  (lib (name "ABX00012")(type "KiCad")(uri "${KIPRJMOD}/ABX00012.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-C3_SUPERMINI_SMD")(type "KiCad")(uri "${KIPRJMOD}/ESP32-C3_SUPERMINI_SMD/ESP32-C3_SUPERMINI_SMD.kicad_sym")(options "")(descr ""))
+)
