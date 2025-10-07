@@ -12,4 +12,4 @@ The design uses a Luckfox Lyra as the devboard to process and store data. This
 board runs Buildroot Linux and handles all reading of inputs, calculation of
 outputs, and storage/display of results.
 
-![alt text](https://github.com/ryder314/baja26_dyno/raw/master/src/Pictures/3d_pcb_view.png "3D View of the PCB for the Motor Dyno")
+![alt text](https://github.com/ryder314/baja26_dyno/blob/fa81208130a97caf0380c46af1897c0dbfd13af9/Pictures/3d_pcb_view.png "3D View of the PCB for the Motor Dyno")
